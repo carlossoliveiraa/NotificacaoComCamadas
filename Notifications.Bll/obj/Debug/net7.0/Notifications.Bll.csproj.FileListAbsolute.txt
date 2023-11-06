@@ -1,0 +1,12 @@
+C:\Git\Notifications\Notifications.Bll\bin\Debug\net7.0\Notifications.Bll.deps.json
+C:\Git\Notifications\Notifications.Bll\bin\Debug\net7.0\Notifications.Bll.dll
+C:\Git\Notifications\Notifications.Bll\bin\Debug\net7.0\Notifications.Bll.pdb
+C:\Git\Notifications\Notifications.Bll\obj\Debug\net7.0\Notifications.Bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Notifications\Notifications.Bll\obj\Debug\net7.0\Notifications.Bll.AssemblyInfoInputs.cache
+C:\Git\Notifications\Notifications.Bll\obj\Debug\net7.0\Notifications.Bll.AssemblyInfo.cs
+C:\Git\Notifications\Notifications.Bll\obj\Debug\net7.0\Notifications.Bll.csproj.CoreCompileInputs.cache
+C:\Git\Notifications\Notifications.Bll\obj\Debug\net7.0\Notifications.Bll.dll
+C:\Git\Notifications\Notifications.Bll\obj\Debug\net7.0\refint\Notifications.Bll.dll
+C:\Git\Notifications\Notifications.Bll\obj\Debug\net7.0\Notifications.Bll.pdb
+C:\Git\Notifications\Notifications.Bll\obj\Debug\net7.0\ref\Notifications.Bll.dll
+C:\Git\Notifications\Notifications.Bll\obj\Debug\net7.0\Notifications.Bll.csproj.AssemblyReference.cache
